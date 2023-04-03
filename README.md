@@ -2,7 +2,7 @@
 
 ## Description
 
-April3Deviation game in [LQDOJ](https://lqdoj.edu.vn/) Third April Fools Contest
+April3Deviation is a game in [LQDOJ](https://lqdoj.edu.vn/) Third April Fools Contest
 
 ## Features
 
